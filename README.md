@@ -19,8 +19,4 @@ Understanding of control flow, loops, and input handling.
 
 ---
 
-### 3. `requirements.txt`  
-Is project me extra library ka use nahi hai (sirf Python ka built-in `input/output`). Lekin file bana sakte ho for GitHub completeness.
 
-```txt
-# No external dependencies required
